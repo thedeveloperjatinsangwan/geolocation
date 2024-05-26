@@ -1,0 +1,11 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/31/06/56/map-3120436_640.jpg");
+    background-size: cover;
+}
+
